@@ -18,9 +18,11 @@ python run.py
 
 ## Citation
 
+```bash
 @inproceedings{jia2023witran,
   title={WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting},
   author={Yuxin Jia, Youfang Lin, Xinyan Hao, Yan Lin, Shengnan Guo, Huaiyu Wan},
   booktitle={Advances in Neural Information Processing Systems},
   year={2023}
 }
+```
