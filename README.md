@@ -4,7 +4,7 @@ Our proposed method, called Water-wave Information Transmission Recurrent Accele
 
 ## News
 
-Our paper, titled **WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting**, has been accepted at **NeurIPS 2023** as a **spotlight**! The final version can be found at: [[WITRAN](https://openreview.net/pdf?id=y08bkEtNBK)].
+Our paper, titled **WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting**, has been accepted at **NeurIPS 2023** as a **spotlight**! The final version can be found at: [[WITRAN](https://openreview.net/forum?id=y08bkEtNBK)].
 
 ## Get Start
 
@@ -21,8 +21,8 @@ python run.py
 ```bash
 @inproceedings{
 jia2023witran,
-title={{WITRAN}: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting},
-author={Yuxin Jia and Youfang Lin and Xinyan Hao and Yan Lin and Shengnan Guo and Huaiyu Wan},
+title={WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting},
+author={Yuxin Jia, Youfang Lin, Xinyan Hao, Yan Lin, Shengnan Guo, Huaiyu Wan},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023}
 }
